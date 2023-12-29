@@ -1,0 +1,35 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.9*%
+%TF.CreationDate,2023-12-18T12:46:53-05:00*%
+%TF.ProjectId,Coaster_KiCard,436f6173-7465-4725-9f4b-69436172642e,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.9) date 2023-12-18 12:46:53*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,2.145000*%
+%ADD11C,3.200000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,J3*%
+X27250000Y-82050000D03*
+X27250000Y-89950000D03*
+%TD*%
+D11*
+%TO.C,H4*%
+X30000000Y-120000000D03*
+%TD*%
+%TO.C,H2*%
+X120000000Y-30000000D03*
+%TD*%
+%TO.C,H3*%
+X120000000Y-120000000D03*
+%TD*%
+%TO.C,H1*%
+X30000000Y-30000000D03*
+%TD*%
+M02*

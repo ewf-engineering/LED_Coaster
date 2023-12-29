@@ -1,0 +1,16 @@
+.MMBT2222ALT1G :1 ;MMBT2222ALT1G, NPN Bipolar Transistor,  0.6 A 40 V HFE:35 300 MHz Small Signal, 3-Pin SOT-23
+SOT96P237X111-3N
+*STM IC
+*NGS
+*PLB 1="B" 2="E" 3="C"
+*MXP 3
+*DFN MMBT2222ALT1G
+~!Mouser Part Number (863-MMBT2222ALT1G)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/onsemi/MMBT2222ALT1G?qs=HVbQlW5zcXWwnD7Jokybqg%3D%3D)
+~!Manufacturer_Name (onsemi)
+~!Manufacturer_Part_Number (MMBT2222ALT1G)
+~!Link Datasheet (http://www.onsemi.com/pub/Collateral/MMBT2222LT1-D.PDF)
+~!Height (1.11mm)
+~!3D_Model (MMBT2222ALT1G)
+MMBT2222ALT1G
+1.1!U 2.1!U 3.1!U 

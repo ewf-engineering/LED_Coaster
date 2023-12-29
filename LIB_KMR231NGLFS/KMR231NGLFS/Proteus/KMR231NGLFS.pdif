@@ -1,0 +1,111 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "KMR231NGLFS"
+   (description "KMR231NGLFS (Tactile Switches)")
+   (family "SWI")
+   (package "KMR231NGLFS")
+   (attribute "Datasheet Link" "https://www.ckswitches.com/media/1479/kmr2.pdf")
+   (attribute "Geometry.Height" "1.9mm")
+   (attribute "Mouser Part Number" "611-KMR231NGLFS")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/CK/KMR231NGLFS?qs=sb%252But3Lm4x1Y5NsXXdZx2g%3D%3D")
+   (attribute "Manufacturer_Name" "C & K COMPONENTS")
+   (attribute "Manufacturer_Part_Number" "KMR231NGLFS")
+   (gate
+    (symbol "KMR231NGLFS")
+    (pin "COM_1" 1 PS)
+    (pin "NO_1" 2 PS)
+    (pin "NO_2" 3 PS)
+    (pin "COM_2" 4 PS)
+   )
+  )
+  (symbol "KMR231NGLFS"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1000 100) (pt 1000 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "KMR231NGLFS"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.1 1.4)
+      (pt 2.1 1.4)
+      (pt 2.1 -1.4)
+      (pt -2.1 -1.4)
+      (pt -2.1 1.4))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.5 2.4)
+      (pt 3.5 2.4)
+      (pt 3.5 -2.4)
+      (pt -3.5 -2.4)
+      (pt -3.5 2.4))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -1.2 -1.4)
+      (pt 1.2 -1.4))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -1.2 1.4)
+      (pt 1.2 1.4)
+      (pt 1.2 1.4))))
+   (leg 1 (pt -2.050 0.800) (padstack 0))
+   (leg 2 (pt -2.050 -0.800) (padstack 0))
+   (leg 3 (pt 2.050 -0.800) (padstack 0))
+   (leg 4 (pt 2.050 0.800) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.900 1.000 0 0 90.000))
+   )
+   (model "KMR231NGLFS.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

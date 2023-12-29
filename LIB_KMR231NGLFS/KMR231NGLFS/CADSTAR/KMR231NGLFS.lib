@@ -1,0 +1,16 @@
+.KMR231NGLFS :1 ;KMR231NGLFS (Tactile Switches)
+KMR231NGLFS
+*STM S
+*NGS
+*PLB 1="COM_1" 2="NO_1" 3="NO_2" 4="COM_2"
+*MXP 4
+*DFN KMR231NGLFS
+~!Mouser Part Number (611-KMR231NGLFS)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/CK/KMR231NGLFS?qs=sb%252But3Lm4x1Y5NsXXdZx2g%3D%3D)
+~!Manufacturer_Name (C & K COMPONENTS)
+~!Manufacturer_Part_Number (KMR231NGLFS)
+~!Link Datasheet (https://www.ckswitches.com/media/1479/kmr2.pdf)
+~!Height (1.9mm)
+~!3D_Model (KMR231NGLFS)
+KMR231NGLFS
+1.1!U 2.1!U 3.1!U 4.1!U 

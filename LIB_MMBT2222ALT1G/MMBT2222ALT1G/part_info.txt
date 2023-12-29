@@ -1,0 +1,9 @@
+Manufacturer=onsemi
+PartNumber=MMBT2222ALT1G
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (3-Pin)
+PinCount=3
+Version=3.1
+Released=2015-07-01 13:11:36
+Downloaded=2023-12-15 04:30:57
+3D=Y

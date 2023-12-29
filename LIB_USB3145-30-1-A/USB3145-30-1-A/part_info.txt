@@ -1,0 +1,9 @@
+Manufacturer=GCT (GLOBAL CONNECTOR TECHNOLOGY)
+PartNumber=USB3145-30-1-A
+PartCategory=Connector
+PackageCategory=Other
+PinCount=7
+Version=1.1
+Released=2018-09-12 21:24:00
+Downloaded=2023-12-15 05:00:56
+3D=Y

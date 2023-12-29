@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "KMR231NGLFS"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-02-14-20:24:25)
+    (mountForm default
+        (footprintRef "KMR231NGLFS")
+        (spec "System")
+    )
+)

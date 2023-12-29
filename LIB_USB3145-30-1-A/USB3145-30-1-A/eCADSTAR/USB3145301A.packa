@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "USB3145-30-1-A"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-09-12-21:24:00)
+    (mountForm default
+        (footprintRef "USB3145301A")
+        (spec "System")
+    )
+)

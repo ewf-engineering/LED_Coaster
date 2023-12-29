@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MMBT2222ALT1G
+D MMBT2222ALT1G, NPN Bipolar Transistor,  0.6 A 40 V HFE:35 300 MHz Small Signal, 3-Pin SOT-23
+K
+F http://www.onsemi.com/pub/Collateral/MMBT2222LT1-D.PDF
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+Manufacturer=C & K COMPONENTS
+PartNumber=KMR231NGLFS
+PartCategory=Switch
+PackageCategory=Other
+PinCount=4
+Version=4.4
+Released=2018-05-01 11:47:33
+Downloaded=2023-12-15 03:29:49
+3D=Y

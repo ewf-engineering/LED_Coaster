@@ -1,0 +1,23 @@
+*PADS-LIBRARY-PART-TYPES-V9*
+
+USB3145-30-1-A USB3145301A I CON 6 1 0 0 0
+TIMESTAMP 2023.12.15.05.00.56
+"Mouser Part Number" 640-USB3145-30-1-A
+"Mouser Price/Stock" https://www.mouser.co.uk/ProductDetail/GCT/USB3145-30-1-A?qs=KUoIvG%2F9IlYD1lvSRu5iyg%3D%3D
+"Manufacturer_Name" GCT (GLOBAL CONNECTOR TECHNOLOGY)
+"Manufacturer_Part_Number" USB3145-30-1-A
+"Description" GCT (GLOBAL CONNECTOR TECHNOLOGY) - USB3145-30-1-A - MICRO USB, 2.0 TYPE B, RECEPTACLE, TH
+"Datasheet Link" 
+GATE 1 7 0
+USB3145-30-1-A
+1 0 U 1
+2 0 U 2
+3 0 U 3
+4 0 U 4
+5 0 U 5
+6 0 U 6
+7 0 U 7
+
+*END*
+*REMARK* SamacSys ECAD Model
+767636/1287649/2.50/7/4/Connector

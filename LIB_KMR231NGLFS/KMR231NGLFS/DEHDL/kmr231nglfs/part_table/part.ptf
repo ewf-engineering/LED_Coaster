@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'KMR231NGLFS'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "C & K COMPONENTS", "KMR231NGLFS" (!) = "", "KMR231NGLFS", "Other", "611-KMR231NGLFS", "https://www.mouser.co.uk/ProductDetail/CK/KMR231NGLFS?qs=sb%252But3Lm4x1Y5NsXXdZx2g%3D%3D", "KMR231NGLFS (Tactile Switches)", "https://www.ckswitches.com/media/1479/kmr2.pdf", "1.9 mm"
+END_PART
+
+END.

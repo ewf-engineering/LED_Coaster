@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MMBT2222ALT1G'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "onsemi", "MMBT2222ALT1G" (!) = "", "SOT96P237X111-3N", "SOT23 (3-Pin)", "863-MMBT2222ALT1G", "https://www.mouser.co.uk/ProductDetail/onsemi/MMBT2222ALT1G?qs=HVbQlW5zcXWwnD7Jokybqg%3D%3D", "MMBT2222ALT1G, NPN Bipolar Transistor,  0.6 A 40 V HFE:35 300 MHz Small Signal, 3-Pin SOT-23", "http://www.onsemi.com/pub/Collateral/MMBT2222LT1-D.PDF", "1.11 mm"
+END_PART
+
+END.
